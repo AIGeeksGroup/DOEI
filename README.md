@@ -3,9 +3,9 @@ This is the code repository for the paper:
 
 > **DOEI: Dual Optimization of Embedding Information for Attention-Enhanced Class Activation Maps**
 > 
->Hongjie Zhu, [Zeyu Zhang](https://example.com/zeyu), Guansong Pang, Xu Wang, Shimin Wen, Yu Bai, Daji Ergu, Ying Cai* and Yang Zhao
+>[Hongjie Zhu](https://github.com/Potato2187/), [Zeyu Zhang](https://example.com/zeyu)†, Guansong Pang, Xu Wang, Shimin Wen, Yu Bai, Daji Ergu, [Ying Cai](https://ieeexplore.ieee.org/author/37087137422)* and [Yang Zhao](https://yangyangkiki.github.io/)
 >
->*Corresponding author.
+>*Corresponding author. †Project lead.
 >
 >[[arXiv]]() [[Paper with Code]]()
 
