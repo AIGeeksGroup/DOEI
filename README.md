@@ -29,3 +29,5 @@ conda install pip
 
 # install required packages
 pip install -r requirements.txt
+
+# Citation
