@@ -7,7 +7,7 @@ This is the code repository for the paper:
 >
 >*Corresponding author. †Project lead.
 >
->[**[arXiv]**]() [**[Paper with Code]**]()
+>[**[arXiv]**](https://arxiv.org/abs/2502.15885) [**[Paper with Code]**](https://paperswithcode.com/paper/doei-dual-optimization-of-embedding)
 
 ![项目相关的描述](image.png)
 
